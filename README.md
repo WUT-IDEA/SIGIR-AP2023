@@ -1,2 +1,2 @@
 # SIGIR-AP2023
-Ming Li, Lin Li, Xiaohui Tao, Ning Zhong: User-Meal Interaction Learning for Meal Recommendation: A Reproducibility Study. SIGIR-AP 2023
+Ming Li, Lin Li, Xiaohui Tao, and Ning Zhong. 2023. User-Meal Interaction Learning for Meal Recommendation: A Reproducibility Study. In Proceedings of the Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region (SIGIR-AP '23). Association for Computing Machinery, New York, NY, USA, 104–113. https://doi.org/10.1145/3624918.3625342
